@@ -1,5 +1,3 @@
-# DiagnosticoVibracao
-Projeto de Diagnostico de Vibracao com Rede Neural MLP
 # ⚙️ Classificação de Falhas em Máquinas Rotativas com ML Clássico e Redes Neurais (MLP)
 
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
